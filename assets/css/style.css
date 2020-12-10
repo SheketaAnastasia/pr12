@@ -1,0 +1,22 @@
+table {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 14px;
+	border-radius: 10px;
+	border-spacing: 0;
+	text-align: center;
+}
+thead {
+	background: #BCEBDD;
+	color: black;
+	text-shadow: 0 1px 1px #2D2020;
+	padding: 10px 20px;
+}
+thead, td {
+	border-style: solid;
+	border-width: 0 1px 1px 0;
+	border-color: black;
+}
+tbody {
+	padding: 10px 20px;
+	background: #F8E391;
+}
